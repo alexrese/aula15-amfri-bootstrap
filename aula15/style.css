@@ -1,0 +1,10 @@
+.page-footer{
+    background-color: #1c2a48 !important
+}
+.footer-copyright{
+    color: gray;
+}
+.footer-copyright a{
+    color: white;
+    text-decoration: none;
+}
